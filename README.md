@@ -9,3 +9,5 @@ Select countries to get the exchange rate for a specific amount
 - Display the values for both countries
 - Update values on amount change
 - Swap country rates
+
+Please Like, Share & Subscribe Youtube[https://www.youtube.com/channel/UCKCSFdOhBp4Mj2J89051IWg]
